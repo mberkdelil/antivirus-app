@@ -1,0 +1,59 @@
+{
+    "individualProducts": [
+        {
+            "id": 1,
+            "title": "KASPERSKY Antivirus",
+            "description": "Kişisel bilgisayarınızı üstün antivirüs koruma teknolojisi ile koruma altına alın.",
+            "price": 29,
+            "priceDeviceIndex": 1.5,
+            "imageURL": "https://cdn.akakce.com/kaspersky/kaspersky-antivirus-2019-2-pc-1-yil-antivirus-guvenlik-yazilimi-z.jpg"
+        },
+        {
+            "id": 2,
+            "title": "KASPERSKY Internet Security",
+            "description": "Üstün Antivirus koruma teknolojisinin yanı sıra internet, e-posta güvenliği ve yardımcı araçlar ile güvenliğinizi sağlayın.",
+            "price": 34.99,
+            "priceDeviceIndex": 1.5,
+            "imageURL": "https://productimages.hepsiburada.net/s/27/500/10188107415602.jpg"
+        
+        },{ "host": "Atlanta", "year": 1996, "comment": "Centennial Olympics" }
+    ],
+    "mobileDevice": [
+        {
+            "id": 3,
+            "title": "KASPERSKY Android Antivirus Security",
+            "description": "Android telefon ve tabletlerinizi üstün antivirüs koruma teknolojisi ile koruma altına alın.",
+            "price": {
+                "_1year": 9.99,
+                "_2year": 14.99,
+                "_3year": 19.99
+            },
+            "priceDeviceIndex": 1.5,
+            "imageURL": "https://productimages.hepsiburada.net/s/93/500/110000036386769.jpg"
+        },
+        {
+            "id": 4,
+            "title": "Android AppLocker",
+            "description": "Android telefon ve tabletlerinizde bulunan özel verilerinizin incelemesini, galerinizi şifreleyerek hassas fotoğraf ve videoların gizlenmesini, önemli verilerin silinmesini önler.",
+            "price": {
+                "_1year": 2.99,
+                "_2year": 4.49,
+                "_3year": 5.99
+            },
+            "priceDeviceIndex": 1.5,
+            "imageURL": "https://www.appsapk.com/wp-content/uploads/2018/02/max-applock-privacy-guard-applocker-1-0-9-screenshot-1.jpg"
+        },
+        {
+            "id": 5,
+            "title": "KASPERSKY Battery Saver",
+            "description": "KASPERSKY Battery Saver, Android cihazlarınızın pil ömrünü artırmaya yardımcı olan pil tasarruf uygulamasıdır.",
+            "price": {
+                "_1year": 2.99,
+                "_2year": 4.49,
+                "_3year": 5.99
+            },
+            "priceDeviceIndex": 1.5,
+            "imageURL": "https://www.outdoorhaber.com/wp-content/uploads/2018/11/kaspersky-battery-life.jpg"
+        }
+    ]
+}
